@@ -3,4 +3,4 @@ This repository compiles all the projects I successfully tackled on my journey t
 
 | Project Name | Description |
 | ------------- | ------------- |
-| Investigating Netflix Movies  | Analyze Netflix data to ascertain if average movie durations are decreasing based on initial Python research insights  |
+| [Investigating Netflix Movies](https://github.com/alisakhikhan/Data-Analytics-With-Python/tree/main/Investigating%20Netflix%20Movies)  | Analyze Netflix data to ascertain if average movie durations are decreasing based on initial Python research insights  |
